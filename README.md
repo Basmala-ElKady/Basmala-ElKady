@@ -7,8 +7,8 @@
 
 <strong>🌟 Welcome to my GitHub profile! 🚀</strong>
 
-<a href="https://github.com/kady-x/kady-x/blob/main/README.md"><span>**English**</span></a> |
-<a href="https://github.com/kady-x/kady-x/blob/main/README_AR.md"><span>**عربي**</span></a>
+<a href="https://github.com/Basmala-ElKady/Basmala-ElKady/blob/main/README.md"><span>**English**</span></a> |
+<a href="https://github.com/Basmala-ElKady/Basmala-ElKady/blob/main/README_AR.md"><span>**عربي**</span></a>
 
 ---
 
