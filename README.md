@@ -1,18 +1,14 @@
+<div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
+
 <!-- Profile Header -->
-<h1 align="center">
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Basmala ElKady
-</h1>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Basmala ElKady
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80">
-  <br>
-  <strong>🌟 Welcome to my GitHub profile! 🚀</strong>
-</p>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80">
 
----
+<strong>🌟 Welcome to my GitHub profile! 🚀</strong>
 
-## 🌐 Languages
-**English | عربي**
+<a href="https://github.com/kady-x/kady-x/blob/main/README.md"><span>**English**</span></a> |
+<a href="https://github.com/kady-x/kady-x/blob/main/README_AR.md"><span>**عربي**</span></a>
 
 ---
 
@@ -32,21 +28,22 @@
 ---
 
 ## 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" height="150"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" height="150"/>
-</p>
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basmala-ElKady&count_private=true&show_icons=true&theme=radical)](#)
+
+[![Basmala ElKady's current streak](https://streak-stats.demolab.com/?user=Basmala-ElKady&count_private=true&show_icons=true&theme=radical)](#)
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Basmala-ElKady&count_private=true&show_icons=true&theme=radical)](#)
 
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
