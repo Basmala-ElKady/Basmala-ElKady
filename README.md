@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Basmala Tarek
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Basmala ElKady
 </h1>
 
 <p align="center">
