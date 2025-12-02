@@ -13,10 +13,10 @@
 ---
 
 ## ⭐ About Me
-- 🔭 Currently working on **Healthcare Diagnosis & Prediction** and **Facial Feature-Based Image Search**
-- 🌱 Learning **Machine Learning, Deep Learning, Flask, and MySQL**
-- 👯 Looking to collaborate on AI, ML, and database projects
-- ⚡ Fun fact: I love **coffee** ☕ — it’s my code fuel! What’s yours?
+- I’m passionate about building intelligent systems that solve real problems and make technology feel effortless and useful.
+- I’m constantly leveling up in Machine Learning, Deep Learning, Software Engineering, Flask, and MySQL because I love understanding how things work from the inside out.
+- I enjoy working on AI, ML, database, and software projects that push boundaries and create real impact. If you want to build something meaningful, I’m always open to teaming up.
+- Fun fact: Coffee ☕ is my loyal coding partner during long problem-solving sessions — what keeps you going on late-night builds?
 
 ---
 
