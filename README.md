@@ -1,59 +1,77 @@
-<div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BASMALA%20TAREK%20ELKADY&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<!-- Profile Header -->
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Basmala ElKady
+  **AI Student & Software Engineer from Egypt** 
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80">
+  <a href="https://github.com/Basmala-ElKady">
+    <img src="https://readme-typing-svg.demolab.com/?lines=ARTIFICIAL%20INTELLIGENCE;MACHINE%20LEARNING%20;ETHICAL%20AI;SOFTWARE%20ENGINEERING&font=Fira%20Code&center=true&width=500&height=40&color=36BCF7&vCenter=true&size=24" />
+  </a>
 
-<strong>🌟 Welcome to my GitHub profile! 🚀</strong>
-
-<a href="https://github.com/Basmala-ElKady/Basmala-ElKady/blob/main/README.md"><span>**English**</span></a> |
-<a href="https://github.com/Basmala-ElKady/Basmala-ElKady/blob/main/README_AR.md"><span>**عربي**</span></a>
-
----
-
-## ⭐ About Me
-- I’m passionate about building intelligent systems that solve real problems and make technology feel effortless and useful.
-- I’m constantly leveling up in Machine Learning, Deep Learning, Software Engineering, Flask, and MySQL because I love understanding how things work from the inside out.
-- I enjoy working on AI, ML, database, and software projects that push boundaries and create real impact. If you want to build something meaningful, I’m always open to teaming up.
-- Fun fact: Coffee ☕ is my loyal coding partner during long problem-solving sessions — what keeps you going on late-night builds?
+</div>
 
 ---
 
-## 🛠 Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,tensorflow,opencv,git,github,vscode" />
+### About Me
+
+I am a Computer Science student at **Alamein International University**, specializing in Artificial Intelligence and Machine Learning. My approach to technology is defined by a commitment to building systems that are not only high-performing but also ethical and stable in real-world environments.
+
+I bridge the gap between academic research and practical software engineering, with a specific interest in how data-driven models can solve complex problems in healthcare, transport, and human-centric systems.
+
+---
+
+### Current Endeavors
+
+**Machine Learning & NLP Research**
+Currently exploring the evolution of text understanding, transitioning from traditional machine learning algorithms to modern transformer-based architectures for advanced sentiment and classification tasks.
+
+**Responsible AI & Ethics**
+Investigating fairness and bias within predictive models, particularly in medical diagnostics, to ensure that the future of AI remains transparent and equitable.
+
+**Software Systems & Architecture**
+Designing scalable backend architectures, focusing on clean code and efficient database management for real-time applications and ride-hailing platforms.
+
+---
+
+## LANGUAGES & TOOLS
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,sql,mysql,git,github,vscode,pycharm,figma" /><br>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,linux,postman,anaconda" />
+  </a>
 </p>
 
 ---
 
-## 🚀 GitHub Stats
+## GITHUB STATS
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basmala-ElKady&count_private=true&show_icons=true&theme=radical)](#)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Basmala-ElKady&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basmala-ElKady&layout=compact&theme=radical&hide_border=true" height="180" />
+</div>
 
-[![Basmala ElKady's current streak](https://streak-stats.demolab.com/?user=Basmala-ElKady&count_private=true&show_icons=true&theme=radical)](#)
-
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Basmala-ElKady&count_private=true&show_icons=true&theme=radical)](#)
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/kady-x/kady-x/blob/main/snake/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basmala-ElKady&theme=radical&hide_border=true" />
+</div>
 
 ---
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/basmalaelkady"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
+## Connect with Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/basmala-elkady/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:basmala.tarek2004k@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Basmala-ElKady" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 ---
 
-> ❝Keep building, keep learning, and never stop exploring.❞
+<div align="center">
+  <i>"Where logic meets data, and innovation meets ethics."</i>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>
