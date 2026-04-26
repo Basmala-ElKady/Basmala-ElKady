@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+## About Me
 
 I am a Computer Science student at **Alamein International University**, specializing in Artificial Intelligence and Machine Learning. My approach to technology is defined by a commitment to building systems that are not only high-performing but also ethical and stable in real-world environments.
 
@@ -19,7 +19,7 @@ I bridge the gap between academic research and practical software engineering, w
 
 ---
 
-### Current Endeavors
+## Current Endeavors
 
 **Machine Learning & NLP Research**
 Currently exploring the evolution of text understanding, transitioning from traditional machine learning algorithms to modern transformer-based architectures for advanced sentiment and classification tasks.
