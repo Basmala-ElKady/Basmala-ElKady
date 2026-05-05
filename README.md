@@ -1,204 +1,77 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CAR%20CALLING%20PLATFORM&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BASMALA%20TAREK%20ELKADY&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-  **Scalable Multi-Role Car Rental Solution** 
+  **AI Student & Software Engineer from Egypt** 
 
-  <a href="https://github.com/Basmala-ElKady/car-calling-frontend">
-    <img src="https://readme-typing-svg.demolab.com/?lines=REACT%20JS;ROLE-BASED%20ACCESS;CLEAN%20ARCHITECTURE;TAILWIND%20CSS&font=Fira%20Code&center=true&width=500&height=40&color=36BCF7&vCenter=true&size=24" />
+  <a href="https://github.com/Basmala-ElKady">
+    <img src="https://readme-typing-svg.demolab.com/?lines=ARTIFICIAL%20INTELLIGENCE;MACHINE%20LEARNING%20;ETHICAL%20AI;SOFTWARE%20ENGINEERING&font=Fira%20Code&center=true&width=500&height=40&color=36BCF7&vCenter=true&size=24" />
   </a>
+
 </div>
 
 ---
 
-# Car Calling Platform – Frontend
+## About Me
 
-A multi-role car rental web application built with React.
+I am a Computer Science student at **Alamein International University**, specializing in Artificial Intelligence and Machine Learning. My approach to technology is defined by a commitment to building systems that are not only high-performing but also ethical and stable in real-world environments.
 
-This platform allows tenants to rent cars, landlords to list vehicles, delivery personnel to manage deliveries, and admins to manage the entire system.
-
-This repository contains the **frontend application only**.
+I bridge the gap between academic research and practical software engineering, with a specific interest in how data-driven models can solve complex problems in healthcare, transport, and human-centric systems.
 
 ---
 
-## Project Overview
+## Current Endeavors
 
-Car Calling is a role-based car rental platform that supports:
+**Machine Learning & NLP Research**
+Currently exploring the evolution of text understanding, transitioning from traditional machine learning algorithms to modern transformer-based architectures for advanced sentiment and classification tasks.
 
-- Visitors (browse only)
-- Tenants (rent cars)
-- Landlords (list cars)
-- Delivery Personnel
-- Admins
-- Premium Users
+**Responsible AI & Ethics**
+Investigating fairness and bias within predictive models, particularly in medical diagnostics, to ensure that the future of AI remains transparent and equitable.
 
-The system is designed with scalability, modularity, and clean architecture in mind.
+**Software Systems & Architecture**
+Designing scalable backend architectures, focusing on clean code and efficient database management for real-time applications and ride-hailing platforms.
 
 ---
 
-## Tech Stack
+## LANGUAGES & TOOLS
 
-- React (Vite)
-- React Router DOM
-- Context API (Authentication & Role Management)
-- Axios (API communication)
-- TailwindCSS (optional styling)
-- JavaScript (ES6+)
-
----
-
-## Project Structure
-
-```
-src/
-│
-├── app/
-├── assets/
-├── components/
-├── context/
-├── hooks/
-├── pages/
-├── routes/
-├── services/
-└── utils/
-```
-
-The project follows a feature-based and role-based architecture to support growth and maintainability.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,sql,mysql,git,github,vscode,pycharm,figma" /><br>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,linux,postman,anaconda" />
+  </a>
+</p>
 
 ---
 
-## System User Roles
+## GITHUB STATS
 
-### Visitor
-- Browse available cars
-- View car details
-- Cannot rent cars
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Basmala-ElKady&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basmala-ElKady&layout=compact&theme=radical&hide_border=true" height="180" />
+</div>
 
-### Tenant
-- Complete profile verification
-- Search and filter cars
-- Schedule rentals
-- Apply promo codes
-- Upload car condition photos (before/after)
-- Chat with car owners
-- Manage rentals
-- Subscribe to premium
-
-### Landlord
-- Add cars
-- Manage listings
-- Track cars
-- Block users
-- View rental requests
-
-### Delivery Personnel
-- View assigned deliveries
-- Upload before/after delivery photos
-
-### Admin
-- View analytics dashboard
-- Manage users
-- View reports
-- Send system notifications
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basmala-ElKady&theme=radical&hide_border=true" />
+</div>
 
 ---
 
-## Authentication & Security
+## Connect with Me
 
-- Role-based routing
-- Protected routes
-- Password complexity validation
-- Account lock after multiple failed login attempts
-- Verification required before renting or listing cars
-- Payment method required before rental
-
----
-
-## Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/car-calling-frontend.git
-cd car-calling-frontend
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Start Development Server
-
-```bash
-npm run dev
-```
-
----
-
-## Routing Structure
-
-- `/` -> Public pages
-- `/auth/*` -> Authentication pages
-- `/tenant/*` -> Tenant dashboard
-- `/landlord/*` -> Landlord dashboard
-- `/delivery/*` -> Delivery dashboard
-- `/admin/*` -> Admin dashboard
-
----
-
-## Team Members
-
-| Name                          | Role in Project |
-|-------------------------------|------------------|
-| Amr Khaled Mohamed Shawky     | __________________________ |
-| Maryam Gomaa                  | __________________________ |
-| Hoda Mahmoud                  | __________________________ |
-| Jowairya Kassem               | __________________________ |
-| Basmala Elkady                | __________________________ |
-
----
-
-## Development Roadmap
-
-### Phase 1
-- Project setup
-- Routing structure
-- Authentication UI
-
-### Phase 2
-- Car browsing
-- Tenant rental flow
-
-### Phase 3
-- Landlord dashboard
-- Admin panel
-
-### Phase 4
-- Chat system
-- Delivery system
-- Premium features
-
----
-
-## Future Improvements
-
-- Real-time chat with WebSockets
-- Advanced analytics dashboard
-- Payment integration (Stripe/PayPal)
-- Mobile responsiveness optimization
-- Progressive Web App (PWA) support
-
----
-
-## License
-
-This project is for educational and development purposes.
+<div align="left">
+  <a href="https://www.linkedin.com/in/basmala-elkady/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:basmala.tarek2004k@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Basmala-ElKady" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 ---
 
 <div align="center">
-  <i>Built with scalability and clean architecture in mind.</i>
+  <i>"Where logic meets data, and innovation meets ethics."</i>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </div>
