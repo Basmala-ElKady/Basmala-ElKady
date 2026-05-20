@@ -36,12 +36,13 @@ Designing scalable backend architectures, focusing on clean code and efficient d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,sql,mysql,git,github,vscode,pycharm,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,github,vscode,react,figma" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,linux,postman,anaconda" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,ubuntu,postman,anaconda,docker,flask,fastapi" />
   </a>
 </p>
 
