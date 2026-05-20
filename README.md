@@ -51,12 +51,29 @@ Designing scalable backend architectures, focusing on clean code and efficient d
 ## GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basmala-ElKady&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basmala-ElKady&layout=compact&theme=radical&hide_border=true" height="180" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basmala-ElKady&theme=radical&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Basmala-ElKady&theme=tokyonight" />
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Basmala-ElKady&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Basmala-ElKady&theme=tokyonight&utcOffset=2" />
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Basmala-ElKady&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Basmala-ElKady&theme=tokyonight" />
+
+<br><br>
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Basmala-ElKady&theme=tokyo-night&hide_border=true&area=true" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Basmala-ElKady&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
 </div>
 
 ---
