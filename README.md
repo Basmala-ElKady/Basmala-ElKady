@@ -48,31 +48,31 @@ Designing scalable backend architectures, focusing on clean code and efficient d
 
 ---
 
-## GITHUB STATS
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Basmala-ElKady&theme=tokyonight" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Basmala-ElKady&theme=tokyonight" />
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Basmala-ElKady&theme=tokyonight" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Basmala-ElKady&theme=tokyonight" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Basmala-ElKady&theme=tokyonight&utcOffset=2" />
-
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Basmala-ElKady&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Basmala-ElKady&theme=tokyonight" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Basmala-ElKady&theme=tokyonight&utcOffset=2" />
 
 <br><br>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Basmala-ElKady&theme=tokyo-night&hide_border=true&area=true" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Basmala-ElKady&theme=tokyonight" />
+
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Basmala-ElKady&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Basmala-ElKady&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Basmala-ElKady&theme=tokyo-night&hide_border=true&area=true" />
+
+<br><br>
+
+<img width="85%" src="https://github-profile-trophy.vercel.app/?username=Basmala-ElKady&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 
 </div>
 
